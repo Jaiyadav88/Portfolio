@@ -45,7 +45,7 @@ const projects = [
   description: 'Real-time object detection system using YOLOv5.',
   longDescription:
     'Implemented an object detection pipeline using YOLOv5 to detect and classify objects in real-time video streams. Utilized OpenCV for frame capture, PyTorch for model inference, and custom-trained YOLO models on annotated datasets to enhance detection accuracy. Integrated Streamlit for a visual frontend.',
-  image: '../../public/678043-545-43a5-bcef-3b47472606_d36f5951-7637-4058-bcde-3ca940e590f1.jpeg',
+  image: '/678043-545-43a5-bcef-3b47472606_d36f5951-7637-4058-bcde-3ca940e590f1.jpeg',
   tech: ['YOLOv5', 'OpenCV', 'Streamlit'],
   category: 'AI/ML',
   github: 'https://github.com/Jaiyadav88/Object-Detection-YOLO',
@@ -57,7 +57,7 @@ const projects = [
   description: 'A two‑pass assembler simulator for the SIC/XE architecture.',
   longDescription:
     'Built a Java-based assembler for the Simplified Instructional Computer (SIC/XE). The tool performs symbol table generation, opcode processing, and object code production in two passes. Supports directives, literal handling, PC/base-relative addressing, and produces H‑T‑E record output for simulation.',
-  image: '../../public/SIC_img.png',
+  image: '/SIC_img.png',
   tech: ['Java', 'SIC/XE', 'Assembler', 'Symbol Table'],
   category: 'System Programming',
   github: 'https://github.com/Jaiyadav88/Assembler-SIC-.git',

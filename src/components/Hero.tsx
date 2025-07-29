@@ -51,7 +51,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto">
           <div className="mb-8">
             <img
-              src="/public/jaipic1.jpg"
+              src="/jaipic1.jpg"
               alt="Profile"
               className="w-50 h-48 rounded-full mx-auto mb-8 border-4 border-cyan-500 shadow-2xl hover:scale-105 transition-transform duration-300"
             />
