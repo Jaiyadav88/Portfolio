@@ -24,7 +24,7 @@ const projects = [
       'Engineered and optimized machine learning models (SVM, Random Forest) for intrusion detection using CICIoV2024 dataset. Achieved a 25% reduction in false positives via feature engineering and Streamlit dashboard for interactive display.',
     image: 'https://images.pexels.com/photos/5380668/pexels-photo-5380668.jpeg?auto=compress&cs=tinysrgb&w=800',
     tech: ['Cyber-Security','Python', 'Scikit-learn', 'Streamlit', 'Pandas'],
-    category: ['Cyber-Security','AI/ML'],
+    category: 'Cyber-Security',
     github: 'https://github.com/Jaiyadav88/Intrusion-Detection-System'
   },
   {
@@ -77,7 +77,7 @@ const projects = [
 
 ];
 
-  const categories = ['All', 'Full-Stack', 'AI/ML', 'Java-Core','Cyber-Security'];
+  const categories = ['All', 'Full-Stack', 'AI/ML', 'Java-Core', 'Cyber-Security', 'System Programming'];
   const [activeCategory, setActiveCategory] = useState('All');
   const filteredProjects = activeCategory === 'All' 
     ? projects 
