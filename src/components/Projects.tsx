@@ -33,7 +33,7 @@ const projects = [
     description: 'A Java-based emulator for the 8085 microprocessor.',
     longDescription:
       'Developed a Java-based emulator for the 8085 microprocessor, simulating instruction execution and memory management. Implemented features like opcode decoding, memory read/write, and interrupt handling.',
-    image: 'https://private-user-images.githubusercontent.com/90555918/307609588-1fd08adf-d9ac-451c-ab91-590563d0019e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM3ODAwNTksIm5iZiI6MTc1Mzc3OTc1OSwicGF0aCI6Ii85MDU1NTkxOC8zMDc2MDk1ODgtMWZkMDhhZGYtZDlhYy00NTFjLWFiOTEtNTkwNTYzZDAwMTllLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI5VDA5MDIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxYTI0MGM3NGQyZjM3N2I4ZjQ5NTU0YTliZTlmYWQ0MzQ4OTNhMmIwNmQ4MTMwNTE3MDUwNWUxYmJkYjg5OTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qcmZYsPiYYu8kWzdVj8WJnwT5Yn98151UY16oNb6U1k',
+    image: '/image.png',
     tech: ['Java', '8085 Emulator', 'Assembly Language'],
     category: 'Java-Core',  
     github: 'https://github.com/Jaiyadav88/8085-emulator-Java-.git',
